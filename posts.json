@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "post-01",
+      "username": "seu.usuario",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "image": "https://picsum.photos/seed/portfolio1/800/800",
+      "location": "Rio de Janeiro, Brasil",
+      "caption": "Testando o feed do meu portfólio 🚀",
+      "likes": 128,
+      "timestamp": "2026-07-10T14:30:00Z"
+    },
+    {
+      "id": "post-02",
+      "username": "seu.usuario",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "image": "https://picsum.photos/seed/portfolio2/800/800",
+      "location": "",
+      "caption": "Este projeto carrega os dados de um JSON hospedado no GitHub.",
+      "likes": 2450,
+      "timestamp": "2026-07-08T09:15:00Z"
+    },
+    {
+      "id": "post-03",
+      "username": "seu.usuario",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "image": "https://picsum.photos/seed/portfolio3/800/800",
+      "location": "São Paulo, Brasil",
+      "caption": "Curtidas, comentários e compartilhamento são persistidos no localStorage.",
+      "likes": 57,
+      "timestamp": "2026-06-30T20:00:00Z"
+    }
+  ]
+}
