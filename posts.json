@@ -29,6 +29,16 @@
       "caption": "Curtidas, comentários e compartilhamento são persistidos no localStorage.",
       "likes": 57,
       "timestamp": "2026-06-30T20:00:00Z"
+    },
+     {
+      "id": "post-04",
+      "username": "seu.usuario",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "image": "https://raw.githubusercontent.com/mktvendasrj-lgtm/instaleo/main/images/image4.jpg",
+      "location": "São Paulo, Brasil",
+      "caption": "Curtidas, comentários e compartilhamento são persistidos no localStorage.",
+      "likes": 57,
+      "timestamp": "2026-06-30T20:00:00Z"
     }
   ]
 }
